@@ -4,6 +4,8 @@ The best way to install `ansible` is to use pip3, because it downloads its lates
 pip3 install ansible
 ```
 (pip3 is for python3)
+You can see its [doc](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#intro-installation-guide) for more info.
+
 ---
 follow [this](https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html#installing-ansible-on-ubuntu) instructions.  
 (Remember to check if the python application is installed and it meets the version required.  
