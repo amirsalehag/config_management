@@ -1,0 +1,4 @@
+---
+- name: Update packages repo
+  apt:
+    update_cache: yes         ### its like apt-get update
